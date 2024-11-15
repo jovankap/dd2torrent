@@ -9,7 +9,7 @@ env:
   comment: "MERISONICKEROMBHAI"
   url: "https://archive.org/download/microsoft_xbox360_s_part2/Sonic%20Unleashed%20%28USA%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.zip"
   file_name: "Sonic Unleashed (USA) (En,Ja,Fr,De,Es,It).zip"
-  piece_size: 19 # Check the README.md for recommended piece size
+  piece_size: 1 # Check the README.md for recommended piece size
       
 jobs:
   create:
